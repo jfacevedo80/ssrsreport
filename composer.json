@@ -1,5 +1,5 @@
 {
-    "name": "ercorp/ssrs-sdk",
+    "name": "jfacevedo80/ssrsreport",
     "description": "PHP library for connecting to SSRS SOAP",
     "type": "library",
     "license": "MIT",
