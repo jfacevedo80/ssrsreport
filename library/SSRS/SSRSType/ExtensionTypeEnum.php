@@ -37,4 +37,4 @@ class ExtensionTypeEnum {
     public static $All = 'All';
 }
 
-?>
+

@@ -149,4 +149,4 @@ class RenderAsHTML extends RenderBaseType implements IRenderType {
     }
 }
 
-?>
+

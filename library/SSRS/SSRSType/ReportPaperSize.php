@@ -53,4 +53,4 @@ class ReportPaperSize implements ISSRSBaseType {
     }
 }
 
-?>
+

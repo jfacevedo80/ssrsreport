@@ -192,4 +192,4 @@ class TestSSRSConnection {
 $testSSRSConnection = new TestSSRSConnection($argv);
 $testSSRSConnection->Parse();
 $testSSRSConnection->TestConnection();
-?>
+

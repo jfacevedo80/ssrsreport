@@ -35,4 +35,4 @@ class PageCountModeEnum {
     public static $Estimate = 'Estimate';
 }
 
-?>
+

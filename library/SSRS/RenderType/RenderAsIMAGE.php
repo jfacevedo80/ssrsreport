@@ -137,4 +137,4 @@ class RenderAsIMAGE extends RenderBaseType implements IRenderType {
     }
 }
 
-?>
+

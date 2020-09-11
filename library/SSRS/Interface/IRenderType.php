@@ -36,4 +36,4 @@ interface IRenderType {
     public function GetDevInfoXML();
 }
 
-?>
+

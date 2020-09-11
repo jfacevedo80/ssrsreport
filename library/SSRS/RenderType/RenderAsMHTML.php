@@ -65,4 +65,4 @@ class RenderAsMHTML extends RenderBaseType implements IRenderType {
     }
 }
 
-?>
+

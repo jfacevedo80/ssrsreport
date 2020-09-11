@@ -102,4 +102,4 @@ class RenderAsXML extends RenderBaseType implements IRenderType {
     }
 }
 
-?>
+

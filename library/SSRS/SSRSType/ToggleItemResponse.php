@@ -55,4 +55,4 @@ class ToggleItemResponse extends SSRSBaseType implements ISSRSBaseType {
     }
 }
 
-?>
+
